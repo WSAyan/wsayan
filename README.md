@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Godot**
 
-- 👨‍💻 Project portfoilio: [https://sites.google.com/view/wsayan/home](https://sites.google.com/view/wsayan/home)
+- 👨‍💻 Project portfoilio: [https://sites.google.com/view/wsayan/home](https://sites.google.com/view/wsayan)
 
 - 💬 Ask me about **android, kotlin, java, flutter and movies**
 
